@@ -1,0 +1,18 @@
+.Calculadora-IMC {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: lightcyan;
+    
+}
+
+.titulo {
+    color: darkslategray;
+    font-family: Georgia, 'Times New Roman', Times, serif ;
+}
+
+.botao1 {
+    border-radius: 1cm;
+    background-color: rgb(91, 131, 131);
+    color: lightcyan;
+}
